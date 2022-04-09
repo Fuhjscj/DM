@@ -134,8 +134,8 @@ async def on_db_save_to_server(db: Database):
 async def lp_startup():
     api = UserApi.get_current()
     text = (
-        f'[IDM LP]\n'
-        f'❤ Запущена версия IDM LP {const.__version__}\n'
+        f'❤️DML LP🤤\n'
+        f'❤ Запущена версия DML LP🤤 {const.__version__}\n'
     )
     version_rest = requests.get(const.VERSION_REST).json()
 
