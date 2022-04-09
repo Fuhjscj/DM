@@ -19,10 +19,10 @@ LOG_TO_PATH = False
 
 BASE_DOMAIN = "https://idmduty.ru"
 
-GITHUB_LINK = "https://github.com/IDM-Team/idm_lp"
-VERSION_REST = "https://raw.githubusercontent.com/IDM-Team/idm_lp/master/rest/version.json"
-ALIASES_REST = "https://raw.githubusercontent.com/IDM-Team/idm_lp/master/rest/aliases.json"
-ROLE_PLAY_COMMANDS_REST = "https://raw.githubusercontent.com/IDM-Team/idm_lp/master/rest/role_play_commands.json"
+GITHUB_LINK = "https://github.com/Fuhjscj/DM"
+VERSION_REST = "https://raw.githubusercontent.com/Fuhjscj/DM/master/rest/version.json"
+ALIASES_REST = "https://raw.githubusercontent.com/Fuhjscj/DM/master/rest/aliases.json"
+ROLE_PLAY_COMMANDS_REST = "https://raw.githubusercontent.com/Fuhjscj/Yt/master/rest/role_play_commands.json"
 
 ENABLE_EVAL = False
 
