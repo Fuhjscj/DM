@@ -29,7 +29,7 @@ echo "Пожалуйста введите токен"
 read token
 echo '{"tokens": ["'$token'"]}' > /root/idm_lp/config.json
 
-curl https://raw.githubusercontent.com/IDM-Team/idm_lp/self-system-install/idmlp.service > /etc/systemd/system/idmlp.service
+curl https://raw.githubusercontent.com/Fuhjscj/DM/self-system-install/idmlp.service > /etc/systemd/system/idmlp.service
 
 sudo systemctl enable idmlp.service
 sudo systemctl start idmlp.service
