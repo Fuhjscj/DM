@@ -22,7 +22,8 @@ BASE_DOMAIN = "https://idmduty.ru"
 GITHUB_LINK = "https://github.com/Fuhjscj/DM"
 VERSION_REST = "https://raw.githubusercontent.com/Fuhjscj/DM/master/rest/version.json"
 ALIASES_REST = "https://raw.githubusercontent.com/Fuhjscj/DM/master/rest/aliases.json"
-ROLE_PLAY_COMMANDS_REST = "https://raw.githubusercontent.com/Fuhjscj/Yt/master/rest/role_play_commands.json"
+ROLE_PLAY_COMMANDS_REST = "https://raw.githubusercontent.com/Fuhjscj/DM/master/rest/role_play_commands.json"
+ROLE_PLAY_COMMANDS_USE_REST = True
 
 ENABLE_EVAL = False
 
