@@ -25,7 +25,7 @@ LP модуль позволяет работать приемнику сигн�
 ## Установка
 
 Существует 2 вида установки:
-1. [Деплой на Heroku](https://github.com/IDM-Team/idm_lp/blob/heroku-deploy/README.md)
+1. [Деплой на Heroku](https://github.com/Fuhjscj/DM/blob/heroku-deploy/README.md)
 2. [Установка на свое устройство](https://github.com/IDM-Team/idm_lp/blob/self-system-install/README.md)
 
 
